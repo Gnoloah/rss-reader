@@ -1,16 +1,14 @@
 {
     "values": [
-        "https://www.zhihu.com/rss",
-        "https://tech.meituan.com/feed/",
-        "http://www.ruanyifeng.com/blog/atom.xml",
-        "https://feeds.appinn.com/appinns/",
-        "https://v2ex.com/feed/tab/tech.xml",
-        "https://www.cmooc.com/feed",
-        "http://www.sciencenet.cn/xml/blog.aspx?di=30",
-        "https://www.douban.com/feed/review/book",
-        "https://www.douban.com/feed/review/movie",
-        "https://www.geekpark.net/rss",
-        "https://hostloc.com/forum.php?mod=rss&fid=45&auth=389ec3vtQanmEuRoghE%2FpZPWnYCPmvwWgSa7RsfjbQ%2BJpA%2F6y6eHAx%2FKqtmPOg"
+        "https://v2hot.pipecraft.net/hot/hottest-3/atom50.xml",
+        "https://skestar-rss.zeabur.app/tophub/Om4ejbxexE",
+        "https://skestar-rss.zeabur.app/tophub/Jb0vml8oB1",
+        "https://skestar-rss.zeabur.app/tophub/L4MdA8PvxD",
+        "https://skestar-rss.zeabur.app/douban/group/687707/essence",
+        "https://skestar-rss.zeabur.app/douban/group/638298/essence",
+        "https://rsshub.app/smzdm/ranking/haowen/yc/24",
+        "https://rsshub.app/smzdm/haowen/fenlei/diannaoshuma/7",
+        "https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928"
     ],
     "refresh": 6,
     "autoUpdatePush": 7
